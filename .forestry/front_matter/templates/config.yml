@@ -115,16 +115,6 @@ fields:
       name: simple
       label: simple
   - type: field_group
-    name: instagram
-    label: instagram
-    fields:
-    - type: boolean
-      name: disabled
-      label: disabled
-    - type: boolean
-      name: simple
-      label: simple
-  - type: field_group
     name: youtube
     label: youtube
     fields:
@@ -138,13 +128,6 @@ fields:
   name: services
   label: services
   fields:
-  - type: field_group
-    name: instagram
-    label: instagram
-    fields:
-    - type: boolean
-      name: disableInlineCSS
-      label: disableInlineCSS
   - type: field_group
     name: twitter
     label: twitter
